@@ -18,6 +18,11 @@ Make sure you have the following installed:
 - qr_code_generation.py: Generates QR codes for each student or attendee.
 - scan.py: Scans QR codes, captures attendance, and records it in the database.
 
+# Database Configuration
+- Make sure you have XAMPP installed and the MySQL server is running.
+- The database configuration can be found in the code file (scan.py).
+- Modify the database connection details (host, username, password, and database name) in the code files accordingly.
+
 # How to use
 1. Start the MySQL server using XAMPP control panel.
 2. Generate QR codes by running qr_code_generation.py.
