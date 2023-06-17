@@ -27,8 +27,3 @@ Make sure you have the following installed:
 1. Start the MySQL server using XAMPP control panel.
 2. Generate QR codes by running qr_code_generation.py.
 3. Place the QR code in front of the camera to capture it and mark attendance using scan.py.
-
-# Database Configuration
-- Make sure you have XAMPP installed and the MySQL server is running.
-- The database configuration can be found in the code file (scan.py).
-- Modify the database connection details (host, username, password, and database name) in the code files accordingly.
