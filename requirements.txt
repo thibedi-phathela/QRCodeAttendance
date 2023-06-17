@@ -1,0 +1,4 @@
+pyqrcode
+Pillow
+opencv-python
+mysql-connector-python
