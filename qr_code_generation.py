@@ -9,4 +9,3 @@ qr_code.png(f"./StudentsQRCode/Student-{details}.png",scale=15)
 Image.open(f"./StudentsQRCode/Student-{details}.png")
 print("QR created...")
 
-#Next Update- Send the created QR codes to students via email.
